@@ -7,6 +7,3 @@ Delivery is role-driven and collaborative, with clearly defined roles. Project M
 Execution follows structured workflows in tools like GitHub Projects, with work moving through Backlog, Ready, In Progress, In Review, QA, and Done. OctoAcme emphasizes small, reviewable pull requests that include issue context and acceptance criteria, then pass CI checks and peer review before merge. Risks and dependencies are continuously tracked in a living register, with clear escalation paths and regular stakeholder updates.
 
 Quality assurance is embedded across the full lifecycle. New and critical functionality is covered by unit, integration, and end-to-end testing, with manual QA where needed for feature acceptance. Security scanning is integrated into CI, and release readiness relies on checklists for acceptance completion, deployment verification, rollback preparedness, and incident communication. Retrospectives and blameless post-incident reviews feed improvements back into the backlog to keep delivery practices repeatable and auditable.
-
----
-_Edición de prueba para validar el trigger del workflow por Copilot._
