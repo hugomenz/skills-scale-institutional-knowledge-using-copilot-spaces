@@ -105,12 +105,12 @@ To get started, you need access to Copilot Spaces and a GitHub Copilot plan with
   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
   >
   > ```prompt
-  > Create an issue in the repository {{full_repo_name}} for a README for OctoAcme Project Management Docs
-  > that has links to all the docs in the docs folder.
-  > - The README should also contain a brief summary of the project management processes used by OctoAcme.
-  > - Make sure README, project management processes summary, and links are in the title of the issue.
+  > Create an issue in the repository {{full_repo_name}} requesting a new README for OctoAcme Project Management Docs.
+  > - The README request must include links to all markdown documents in the `docs/` folder.
+  > - The README request must include a brief summary of the project management processes used by OctoAcme.
+  > - Make sure "README", "project management processes summary", and "links" are in the issue title.
   > - Use the "Add Content to Project Management Process Docs" template.
-  >  - Which process document do you want to update? "<new document>"
+  >   - Which process document do you want to update? "<new document>"
   >  - Fill in the other fields
   > ```
 
