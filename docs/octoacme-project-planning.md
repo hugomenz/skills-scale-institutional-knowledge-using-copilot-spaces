@@ -37,7 +37,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] Kickoff confirms required personas and named owners (PM, PdM, Dev, QA, UX, Scrum Master/Agile Coach, Technical Writer, Security Lead, Customer Support Lead)
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Role responsibilities and cross-functional handoffs documented in project artifacts

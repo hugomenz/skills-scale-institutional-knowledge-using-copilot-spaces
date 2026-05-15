@@ -4,7 +4,7 @@ Welcome to the OctoAcme project management documentation. This README is the ent
 
 OctoAcme uses a structured, iterative lifecycle that starts with initiation and planning, continues through execution and risk-managed delivery, and ends with release and retrospective follow-through. Teams begin with a one-pager and success metrics, then build prioritized backlog items with acceptance criteria and a clear Definition of Done. During execution, work is tracked in visible workflows and validated through code review, CI checks, and testing before release.
 
-Roles are intentionally clear: Project Managers coordinate planning, dependencies, risk tracking, and stakeholder alignment; Product Managers define outcomes and prioritize value; Developers design, build, and test features; and QA/Testing validates acceptance criteria and release readiness. This role clarity supports faster decisions and shared accountability across cross-functional work.
+Roles are intentionally clear: Project Managers coordinate planning, dependencies, risk tracking, and stakeholder alignment; Product Managers define outcomes and prioritize value; Developers design, build, and test features; and QA/Testing validates acceptance criteria and release readiness. Expanded role guidance also covers UX Designer, Scrum Master / Agile Coach, Technical Writer, Security Lead, and Customer Support Lead to improve accountability across discovery, delivery, release, and support. This role clarity supports faster decisions and shared accountability across cross-functional work.
 
 Communication is continuous and layered through standups, weekly delivery/PM-PdM syncs, demos, milestone or weekly stakeholder updates, and explicit escalation paths. Quality assurance is built into every phase using acceptance criteria, unit/integration/smoke testing, CI/security scanning, deployment checklists, and blameless retrospectives with tracked action items. These docs reflect OctoAcme's core principles—customer-first delivery, iterative progress, data-informed decisions, and continuous improvement.
 
@@ -34,6 +34,13 @@ Communication is continuous and layered through standups, weekly delivery/PM-PdM
 - **Product Manager**: defines product outcomes, prioritizes backlog, and validates impact
 - **Developer**: implements and tests features, contributes to reviews, and flags technical risks
 - **QA/Testing**: verifies acceptance criteria, test coverage, and release quality
+- **UX Designer**: ensures usability and accessible interaction design
+- **Scrum Master / Agile Coach**: improves team flow and agile execution
+- **Technical Writer**: maintains accurate product and technical documentation
+- **Security Lead**: guides security risk reduction and incident-readiness
+- **Customer Support Lead**: channels customer feedback and support readiness into planning
+
+For complete role summaries, responsibilities, and interactions, see [Roles and Personas](./octoacme-roles-and-personas.md).
 
 ## Communication and Cadence
 

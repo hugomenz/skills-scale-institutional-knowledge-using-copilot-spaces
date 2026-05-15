@@ -18,7 +18,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX Designer: drives usability, interaction design, and experience validation.
+- Scrum Master / Agile Coach: facilitates agile delivery rhythms and removes process blockers.
+- Technical Writer: maintains clear product and technical documentation for users and teams.
+- Security Lead: owns security risk guidance, threat modeling, and incident-readiness alignment.
+- Customer Support Lead: captures customer issue trends and coordinates support-facing communications.
 - Stakeholders: provide inputs and approvals.
+
+See the full role definitions and interactions in [Roles and Personas](./octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager

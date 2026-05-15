@@ -29,9 +29,24 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Quick risks & dependencies:
 - Proposed team / roles:
 
+## Key Role Assignment Template
+Confirm role coverage early and document the named owner for each role.
+- Project Manager:
+- Product Manager:
+- Developer Lead:
+- QA/Testing Lead:
+- UX Designer:
+- Scrum Master / Agile Coach:
+- Technical Writer:
+- Security Lead:
+- Customer Support Lead:
+- Responsibility notes / role interactions documented:
+
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Required personas identified and named owners assigned (see Key Role Assignment Template)
+- [ ] Role responsibilities and role interactions documented for kickoff
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
